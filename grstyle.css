@@ -1,0 +1,93 @@
+html {
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  body {
+    max-width: 1868px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;   
+    margin: 0 auto;
+  }
+
+  .all {
+    margin-left: 158px;
+    margin-right: 107px;
+
+  }
+
+  .grid-container1 {
+    display: grid;
+    grid-template-columns: 251px 131px 135px 137px 183px 100px 145px 302px 65px 83px 65px;
+    /* background-color: coral; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 151px;
+    font-size: 24px;
+    text-transform: uppercase;
+    border-bottom: 3px solid rgb(211, 206, 206);
+        
+}
+
+.grid-item-2:hover {
+  border-bottom: 5px solid black; 
+  padding-bottom: 0.5556rem;
+  cursor: pointer;
+}
+
+.grid-item-3:hover {
+  border-bottom: 5px solid black; 
+  padding-bottom: 0.5556rem;
+  cursor: pointer;
+}
+.grid-item-4:hover {
+  border-bottom: 5px solid black; 
+  padding-bottom: 0.5556rem;
+  cursor: pointer;
+}
+
+.grid-item-5:hover {
+  border-bottom: 5px solid black; 
+  padding-bottom: 0.5556rem;
+  cursor: pointer;
+}
+.grid-item-6:hover {
+  border-bottom: 5px solid black; 
+  padding-bottom: 0.5556rem;
+  cursor: pointer;
+}
+.grid-item-7:hover {
+  border-bottom: 5px solid black; 
+  padding-bottom: 0.5556rem;
+  cursor: pointer;
+}
+
+.grid-item-9:hover {
+  padding-bottom: 0.5556rem;
+  cursor: pointer;
+}
+.grid-item-10:hover {
+  padding-bottom: 0.5556rem;
+  cursor: pointer;
+}
+
+.grid-item-11 {
+  width: 3.6111rem;
+  height: 3.6111rem;
+  background: #446CCD 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+  
+
+.grid-item-11 i {
+  font-size: 1.0556rem;
+  color:white;
+  margin: 0;
+  position: relative;
+  top: 11px;
+  left: 1px;     
+
+}
+.grid-item-11:hover {
+  cursor: pointer;
+  }
